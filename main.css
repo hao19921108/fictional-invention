@@ -2,3 +2,17 @@
         filter: blur(3px);
         -webkit-filter: blur(3px);
 }
+
+
+ .clean {
+        filter: blur(0px);
+        -webkit-filter: blur(0px);
+}
+
+#beian {
+    color: #9b9b9b;
+}
+
+#beian a{
+    color: #9b9b9b;
+}
